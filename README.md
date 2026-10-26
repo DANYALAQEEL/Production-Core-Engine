@@ -1,7 +1,7 @@
 # ⚙️ Production Core Engine // Architectural Specification
 
-[![Status](https://img.shields.io/badge/Status-Production%20Active-10B981?style=for-the-badge&logo=statuspage)](https://github.com/DANYALAQEEL)
-[![License](https://img.shields.io/badge/Access-Proprietary%20%2F%20NDA-0A0A0A?style=for-the-badge&logo=lock&labelColor=0A0A0A&color=10B981)](https://github.com/DANYALAQEEL)
+[![Status](https://img.shields.io/badge/Status-Architecture%20Study-blue?style=for-the-badge&logo=statuspage)](https://github.com/DANYALAQEEL)
+[![License](https://img.shields.io/badge/Specification-System%20Design-0A0A0A?style=for-the-badge&logo=lock&labelColor=0A0A0A&color=10B981)](https://github.com/DANYALAQEEL)
 [![Domain](https://img.shields.io/badge/Domain-Distributed%20Backend-blue?style=for-the-badge)](https://github.com/DANYALAQEEL)
 
 > [!NOTE]
